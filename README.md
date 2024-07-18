@@ -15,7 +15,7 @@ This project is a React application that displays a map with multiple point data
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/spatial-map.git
+    git clone https://github.com/pallavinsp/Spatial-Map/spatial-map.git
     cd spatial-map
     ```
 
